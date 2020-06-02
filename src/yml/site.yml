@@ -2,11 +2,16 @@ name: MovieBuzz
 title: MovieBuzz| Movies, Series, Documentaries
 description: A place to download your favourites.
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+ - Movies
+  - Series
+  - Documentaries
+  - Netflix
+  - AmazonPrime
+  - HBO
+  - Movie Server
+  - Meherpur
+  - Ftp 
+  - Google Drive Link 
 show_hero: true
 paginate: -4
 menu:
