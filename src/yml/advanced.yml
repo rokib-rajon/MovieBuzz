@@ -1,4 +1,4 @@
-baseurl: /
+baseurl: 
 url: https://moviebuzz.netlify.app
 google_analytics: UA-XXXXXXXX-X
 language: en
