@@ -1,5 +1,5 @@
-baseurl: /
-url: https://moviebuzz.netlify.app/
+baseurl: /home
+url: https://moviebuzz.netlify.app
 google_analytics: UA-XXXXXXXX-X
 language: en
 categories_folder: category
