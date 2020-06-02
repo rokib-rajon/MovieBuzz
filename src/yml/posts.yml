@@ -1,4 +1,8 @@
 show_time_bar: false
+<<<<<<< HEAD
 show_modal_on_exit: true
+=======
+show_modal_on_exit: false
+>>>>>>> 2dd6929097aec55c48a071e048c17610b3f1511c
 show_modal_on_finish_post: true
 two_columns_layout: true
