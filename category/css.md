@@ -1,6 +1,6 @@
 ---
 layout: category
-title: CSS
+title: Series
 slug: css
-description: A category for CSS related posts.
+description: A category for Series.
 ---
