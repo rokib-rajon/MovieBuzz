@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Movies
-slug: code
+slug: movies
 description: A category for movies.
 ---

@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Series
-slug: css
+slug: series
 description: A category for Series.
 ---
