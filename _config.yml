@@ -1,14 +1,15 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: MovieBuzz
+title: MovieBuzz | Download your favourites
+description: MovieBuzz is a movie download website. Get best movie, series, documentaries for absolutely free!
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
-email: youremail@xyz.com
+  - Movies
+  - Series
+  - Documentaries
+  - Netflix
+  - AmazonPrime
+  - HBO
+email: connect.rajon@gmail.com
 disqus_username: disqus_username
 show_hero: true
 menu:
@@ -33,7 +34,7 @@ medium_username: medium_username
 
 
 # Posts Settings
-show_time_bar: true
+show_time_bar: false
 show_modal_on_exit: false
 show_modal_on_finish_post: true
 two_columns_layout: true
